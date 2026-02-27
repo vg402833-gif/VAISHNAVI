@@ -34,3 +34,43 @@ This program uses Python's math module to perform calculations on a number enter
   - math.sin(num)
   are used to calculate results.
 - The results are printed on the screen.
+
+## ASSIGNMENT 4
+## Task 1
+## Description
+In this program:
+A text file named textfile_of_task1 is created using write mode (xt).
+The file is then opened in read mode (wt).
+The file is then opened in read mode (rt).
+The first two lines are read using readline() function.
+The content is displayed on the screen.
+A try-except block is used to handle errors if the file is not found.
+## Concepts Used
+open() function
+Write mode (wt)
+Read mode (rt)
+write() method
+readline() method
+Exception handling (try-except)
+## ASSIGNMENT 4
+## Task 2
+Write a Python program that:
+Takes user input.
+Writes the input to a file named output.txt.
+Appends additional data to the same file.
+Reads and displays the final content of the file.
+## Working
+The objective of this task is to understand and implement file handling in Python, including:
+Writing data to a file
+Appending data to an existing file
+Reading data from a file
+## Methods
+write()
+append() (using "at" mode)
+read()
+▶️ Program Workflow
+The program asks the user to enter text.
+The entered text is written into output.txt.
+Additional text is appended to the same file.
+The program reads the file content.
+The final content is displayed on the screen.
