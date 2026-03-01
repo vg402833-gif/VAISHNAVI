@@ -3,7 +3,7 @@ with open("output.txt",'wt')as fh: #first created the file
     fh.write(str(content1+"\n"))
     print("Data Successfully written to 'output.txt'")
 with open("output.txt",'at') as fh:
-    content2 = (input("Enter additional text to append:")) #appending additional data from the user
+    content2 = (input("Enter additional text to append:")) #appending additional data4 from the user
     fh.write(str(content2))
     print("Data successfully appended")
     print("File content of output.txt:")
