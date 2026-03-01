@@ -74,3 +74,19 @@ The entered text is written into output.txt.
 Additional text is appended to the same file.
 The program reads the file content.
 The final content is displayed on the screen.
+## Assignment 5
+## Task1
+## working
+first creates dict
+student names are keys and marks are values
+it retrives name from user
+than dipalys marks of that student
+and it prints student not found if student name is not present
+## execution
+just we have to save and run the code
+there are no extra steps
+## Assignment 5
+## Task 2
+First create a list containing numbers 1 to 10
+than extracts and stores in another list and prints first five numbers of the list
+than use reverse() that extracted list than prints it
