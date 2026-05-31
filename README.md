@@ -90,3 +90,5 @@ there are no extra steps
 First create a list containing numbers 1 to 10
 than extracts and stores in another list and prints first five numbers of the list
 than use reverse() that extracted list than prints it
+ ## ASSIGNMENT 9
+Implementing RestApi using Django is followed by the compressed Zip blog 
